@@ -1,0 +1,8 @@
+name: build_db
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - ncbi-datasets-cli
+  - blast
