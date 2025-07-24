@@ -20,7 +20,7 @@ A lightweight workflow for downloading taxon‑specific genomes from NCBI, build
 
 ---
 
-## Quick‑start
+##  Quick‑start
 
 ### 1 · Build the taxon database
 
@@ -74,7 +74,7 @@ Change `-num_threads` and file paths as needed.
 
 ---
 
-## Generated files
+## Generated files
 
 | File / Folder                     | Purpose                                        |
 | --------------------------------- | ---------------------------------------------- |
